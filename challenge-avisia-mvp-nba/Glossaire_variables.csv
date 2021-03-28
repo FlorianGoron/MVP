@@ -1,0 +1,80 @@
+Identifiant;Identifiant unique par joueur, saison et franchise
+Season;Saison
+Player;Prénom et nom du joueur NBA
+Pos;Poste du joueur
+Age;Âge du joueur
+Trigramme_Franchise;Trigramme identifiant la franchise
+G;Matchs joués par le joueur
+GS;Matchs joués et commencés par le joueur
+MP_moy;Minutes jouées par match joué par le joueur
+FG_moy;Paniers/shoots réussis par match par le joueur
+FGA_moy;Tentatives de paniers/shoots par match par le joueur
+FG_Perc;% de réussite aux shoots par le joueur
+3P_moy;Paniers/shoots à 3 pts réussis par match par le joueur
+3PA_moy;Tentatives de paniers/shoots à 3 pts par match par le joueur
+3P_Perc;% de réussite aux shoots à 3 pts par le joueur
+2P_moy;Paniers/shoots à 2 pts réussis par match par le joueur
+2PA_moy;Tentatives de paniers/shoots à 2 pts par match par le joueur
+2P_Perc;% de réussite aux shoots à 2 pts par le joueur
+eFG_Perc;% de réussite effectif. Cette statistique ajuste le fait qu'un shoot 3 pts vaut plus qu'un shoot 2 pts. par le joueur
+FT_moy;Lancers-francs réussis par match par le joueur
+FTA_moy;Lancers-francs tentés par match par le joueur
+FT_Perc;% de réussite aux lancers-francs par le joueur
+ORB_moy;Rebonds offensifs par match par le joueur
+DRB_moy;Rebonds défensifs par match par le joueur
+TRB_moy;Rebonds par match par le joueur
+AST_moy;Passes décisives par match par le joueur
+STL_moy;Interceptions par match par le joueur
+BLK_moy;Contres par match par le joueur
+TOV_moy;Pertes de balle par match par le joueur
+PF_moy;Fautes personnelles par match par le joueur
+PTS_moy;Points marqués par match par le joueur
+Franchise_Nom_US;Nom de la franchise (équipe) en anglais
+Franchise_Nom_FR;Nom de la franchise en français
+MP_tot;Minutes jouées par le joueur au total de la saison pour la franchise
+FG_tot;Paniers/shoots réussis au total par le joueur pour la franchise
+FGA_tot;Tentatives de paniers/shoots au total par le joueur pour la franchise
+3P_tot;Paniers/shoots à 3 pts réussis au total par le joueur pour la franchise
+3PA_tot;Tentatives de paniers/shoots à 3 pts au total par le joueur pour la franchise
+2P_tot;Paniers/shoots à 2 pts réussis au total par le joueur pour la franchise
+2PA_tot;Tentatives de paniers/shoots à 2 pts au total par le joueur pour la franchise
+FT_tot;Lancers-francs réussis au total par le joueur pour la franchise
+FTA_tot;Lancers-francs tentés au total par le joueur pour la franchise
+ORB_tot;Rebonds offensifs au total par le joueur pour la franchise
+DRB_tot;Rebonds défensifs au total par le joueur pour la franchise
+TRB_tot;Rebonds au total par le joueur pour la franchise
+AST_tot;Passes décisives au total par le joueur pour la franchise
+STL_tot;Interceptions au total par le joueur pour la franchise
+BLK_tot;Contres au total par le joueur pour la franchise
+TOV_tot;Pertes de balle au total par le joueur pour la franchise
+PF_tot;Fautes personnelles au total par le joueur pour la franchise
+PTS_tot;Points marqués au total par le joueur pour la franchise
+PER;Evaluation de l'efficacité du joueur. Mesure de la production par minute standardisé sur la base d'une moyenne de la ligue à 15.
+TS_Perc;"""Vrai"" pourcentage de réussite. Mesure de l'efficacité  au shoot du joueur prenant en compte les paniers à 3pts, 2pts et les lancers-francs."
+3PAr;Part des shoots à 3pts parmi l'ensemble des shoots tentés.
+FTr;Part des lancers-franccs parmi l'ensemble des shoots tentés.
+ORB_Perc;Part estimé des rebonds offensifs de l'équipe pris par le joueur lorsqu'il est sur le terrain.
+DRB_Perc;Part estimé des rebonds défensifs de l'équipe pris par le joueur lorsqu'il est sur le terrain.
+TRB_Perc;Part estimé des rebonds de l'équipe pris par le joueur lorsqu'il est sur le terrain.
+AST_Perc;Part estimé des passes décisives de l'équipe faites par le joueur lorsqu'il est sur le terrain.
+STL_Perc;Part estimé des interceptions de l'équipe faites par le joueur lorsqu'il est sur le terrain.
+BLK_Perc;Part estimé des contres de l'équipe faits par le joueur lorsqu'il est sur le terrain.
+TOV_Perc;Part estimé des pertes de balles de l'équipe faits par le joueur lorsqu'il est sur le terrain.
+USG_Perc;Part estimé des actions offensives de l'équipe où le joueur a participé lorsqu'il est sur le terrain.
+OWS;Estimation du nombre de victoires additionnelles apportées grâce à l'apport offensif du joueur.
+DWS;Estimation du nombre de victoires additionnelles apportées grâce à l'apport défensif du joueur.
+WS;Estimation du nombre de victoires additionnelles apportées grâce au joueur.
+WS_per_48;Estimation du nombre de victoires additionnelles apportées grâce au joueur par 48 minutes.
+OBPM;Estimation de l'apport du joueur en nombre de points en attaque pour 100 possessions par rapport à la moyenne des joueurs
+DBPM;Estimation de l'apport du joueur en nombre de points en défense pour 100 possessions par rapport à la moyenne des joueurs
+BPM;Estimation de l'apport du joueur en nombre de points pour 100 possessions par rapport à la moyenne des joueurs
+VORP;Estimation de l'apport du joueur en nombre de points pour 100 possessions par rapport à un joueur remplaçant moyen
+Classement_MVP;Classement MVP du joueur (1 = Premier, 2 = Deuxième, 3 = Troisième)
+Note_MVP;Notation MVP du joueur (3 = Premier, 2 = Deuxième, 1 = Troisième, 0 = Autres)
+W;Victoires de l'équipe
+L;Défaites de l'équipe
+Win_Perc;% de victoires de l'équipe
+GB;Victoires de retard par rapport au 1er de la conférence (non renseigné si 1er de la conférence)
+PS_per_G;Points marqués par match par l'équipe
+PA_per_G;Points encaissés par match par l'équipe
+SRS;Système de classement simple qui prend en compte la différence de points marqués et encaissés et la difficulté du calendrier de l'équipe. 0 est la moyenne. 
